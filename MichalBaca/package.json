@@ -9,6 +9,10 @@
     "build": "webpack --mode production",
     "server": "node server.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stanlech/tradycje"
+  },
   "keywords": [],
   "author": "Michal Baca",
   "license": "MIT",
