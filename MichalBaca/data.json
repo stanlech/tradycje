@@ -1,0 +1,19 @@
+{
+    "traditions": [
+        {
+            "id": "siano",
+            "name": "Sianko pod obrusem ",
+            "description": "Ten zwyczaj wywodzi się jeszcze z czasów pogańskich i ma związek z dawnym świętem agrarnym. Jak nakazuje tradycja, siano należy położyć pod obrusem. Symbolizuje to narodzenie Jezusa w ubóstwie. Z tym zadaniem bez problemu poradzi sobie małe dziecko – – pozwól mu wykonać tęę symboliczną czynność, a starszakowi wyjaśnij jej znaczenie."
+        },
+        {
+            "id": "gwiazda",
+            "name": "Pierwsza gwiazdka",
+            "description": "Tradycyjnie wieczerza wigilijna rozpoczyna się wraz z pierwszą gwiazdką na niebie. Jest to symboliczne nawiązanie do Gwiazdy Betlejemskiej, oznaczającej narodziny Jezusa, którą według Biblii na wschodniej stronie nieba ujrzeli Trzej Królowie. Zadanie wypatrzenia na niebie pierwszej gwiazdki powierz dzieciom."
+        },
+        {
+            "id": "koleda",
+            "name": "Wspólne kolędowanie",
+            "description": "Radosne śpiewy, w które zaangażowani są wszyscy uczestnicy wieczerzy wigilijnej. Tradycja już niestety coraz rzadziej praktykowana, a szkoda, ponieważ świąteczne muzykowanie nie tylko wpływa na wzajemne relacje międzyludzkie, ale też pomaga rozwijać w sobie poczucie harmonii i wyrażać emocje."
+        }
+    ]
+}

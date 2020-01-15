@@ -1,0 +1,37 @@
+
+html, body {
+    padding: 0;
+    margin: 0;
+}
+#koleda, #siano, #gwiazda
+{
+    float : left;
+    width: 30%;
+    height: 250px;
+}
+img
+{
+    width: 80%;
+}
+h2
+{
+    padding: 5%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#opis
+{
+    width: 70%;
+    float: left;
+    height: 250px;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+  
+body {
+    background-color: #DDD;
+    text-align: center;
+}
+h2
+{
+    color: darkblue;
+}
